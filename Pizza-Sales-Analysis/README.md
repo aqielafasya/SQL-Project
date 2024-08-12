@@ -18,11 +18,14 @@ In this project, I conducted an in-depth analysis of pizza sales data to answer 
 
 ## 📁 Project Structure
 
-- `data/`: Contains the raw pizza sales data used for analysis.
-- `sql_queries/`: Includes SQL queries used to extract and analyze the data.
-- `dashboards/`: Contains Power BI dashboard files and screenshots.
-- `insights/`: A summary of key insights derived from the analysis.
-
+1. Data: Contains the raw pizza sales data used for analysis.
+2. SQL Query: Includes SQL queries used to extract and analyze the data.
+   [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+3. Dashboards
+   ![Dashboard](https://github.com/user-attachments/assets/abc53331-d43f-459c-a14a-691567cf49da)
+4. Insights: A summary of key insights derived from the analysis.
+   [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+   
 ## 📈 Key Insights
 
 The following insights were derived from the analysis:
