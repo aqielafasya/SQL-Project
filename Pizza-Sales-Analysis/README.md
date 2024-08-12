@@ -20,7 +20,7 @@ In this project, I conducted an in-depth analysis of pizza sales data to answer 
 
 1. Data: Contains the raw pizza sales data used for analysis.
 2. SQL Query: Includes SQL queries used to extract and analyze the data.
-   [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+   [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://github.com/aqielafasya/SQL-Project/blob/master/Pizza-Sales-Analysis/SQL_Query.sql)
 3. Dashboards
    ![Dashboard](https://github.com/user-attachments/assets/abc53331-d43f-459c-a14a-691567cf49da)
 4. Insights: A summary of key insights derived from the analysis.
